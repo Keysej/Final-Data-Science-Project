@@ -1,5 +1,6 @@
 # Final Project: Personal Data Manifesto & Data Cookbook
 
+
 👤 Author: Jimale Keyse 
 📘 Course: Data Science (Math215)
 🗓️ Due: May 11, 11:59 PM  
@@ -10,7 +11,7 @@
 📌 Overview
 
 This final project consists of two parts:  
-1. **Data Manifesto— a personal reflection on how I approach working with data  
+1. Data Manifesto— a personal reflection on how I approach working with data  
 2. Data Cookbook — a collection of code recipes demonstrating key data science skills I've learned this semester
 
 
